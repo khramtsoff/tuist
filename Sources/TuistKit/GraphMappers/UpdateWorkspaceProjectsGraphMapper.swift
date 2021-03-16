@@ -12,3 +12,4 @@ final class UpdateWorkspaceProjectsGraphMapper: GraphMapping {
         return (graph.with(workspace: workspace), [])
     }
 }
+
